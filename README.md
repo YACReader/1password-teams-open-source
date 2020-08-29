@@ -722,3 +722,7 @@ https://micronaut.io/
 ### Crazy Marvin
 Crazy Marvin is a collective of open sourcerers that create chatbots and apps for many platforms.
 https://crazymarvin.com/
+
+### YACReader
+YACReader (Yet Another Comic Reader) is an open source comic reader and manger for Windows, macos and Linux.
+https://yacreader.com/
